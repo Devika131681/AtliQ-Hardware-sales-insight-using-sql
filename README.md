@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/path-to-image.png" alt="AtliQ Hardware Logo" width="150"/>
-</p>
 
 
 # 🧠 AtliQ Hardware Sales Insights – SQL Project
