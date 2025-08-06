@@ -5,7 +5,7 @@ SELECT
 FROM
     netsale_customer
 WHERE
-    fiscal_year = 2022 
+    fiscal_year = 2024 
     AND market = 'India'
 GROUP BY customer
 ORDER BY total_net_sale DESC
@@ -19,7 +19,7 @@ SELECT
 FROM
     netsale_customer
 WHERE
-    fiscal_year = 2022 
+    fiscal_year = 2024 
     AND market = 'India'
 GROUP BY channel
 ORDER BY SUM(net_sale) DESC
@@ -36,7 +36,7 @@ JOIN
     dim_product p ON n.product_code = p.product_code
 WHERE
     n.market = 'India'
-    AND n.fiscal_year = 2022
+    AND n.fiscal_year = 2024
 GROUP BY p.segment
 ORDER BY SUM(n.net_sale) DESC;
 
