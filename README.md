@@ -1,6 +1,6 @@
 # 🧠 AtliQ Hardware Sales Insights – SQL Project
 
-This is an end-to-end **SQL-based data analysis** project done for **AtliQ Hardware**, a company that supplies computer hardware and peripherals to clients worldwide. However, this analysis focuses **only on the Indian market** for the **fiscal year 2024**. The goal of this project is to extract business insights directly from raw datasets using **only SQL and Excel**. No BI tools or dashboards were used in this project.
+This is an end-to-end **SQL-based data analysis** project done for **AtliQ Hardware**, a company that supplies computer hardware and peripherals to clients worldwide(Not a real company). However, this analysis focuses **only on the Indian market** for the **fiscal year 2024**. The goal of this project is to extract business insights directly from raw datasets using **only SQL and Excel**. No BI tools or dashboards were used in this project.
 
 ---
 
